@@ -44,7 +44,7 @@ for i in range(0, 10) :
     #time.sleep(3)
     #input()
     
-'''整数页搜索，最后几页人工复制'''
+'''整数页爬取，最后几页人工复制'''
 for j in range(0, 30) :
     for i in range(1, 11) :
         r = browser.page_source

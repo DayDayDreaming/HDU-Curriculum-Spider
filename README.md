@@ -18,3 +18,5 @@
 
 + 由于某些原因，爬虫需要知道爬取的页数，最后多余的几页可能需要手动复制，所以需要先遍历一遍得到页数，再进行爬取
 已有修改思路：判断`<a href="javascript:__doPostBack('DBGrid$ctl18$ctl01','')">`的数量，枚举情况爬取
+
+ 环境：python 3.7.4 ; selenium ; xlwt ; Chrome

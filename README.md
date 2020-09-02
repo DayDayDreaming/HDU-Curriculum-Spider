@@ -1,7 +1,7 @@
 # HDU-Curriculum-Spider
 关于杭电全部课程开课情况的爬虫
 
-简单粗暴的selenium爬虫
+简单粗暴的selenium爬虫，全程用时十分钟左右
 
 爬取网站：http://jxgl.hdu.edu.cn/jxrwcx.aspx?tdsourcetag=s_pcqq_aiomsg
 
